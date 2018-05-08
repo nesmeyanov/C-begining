@@ -1,0 +1,7 @@
+c:\users\nick\source\repos\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe.config
+c:\users\nick\source\repos\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe
+c:\users\nick\source\repos\HomeWork8\HomeWork8\bin\Debug\HomeWork8.pdb
+c:\users\nick\source\repos\HomeWork8\HomeWork8\obj\Debug\HomeWork8.csprojResolveAssemblyReference.cache
+c:\users\nick\source\repos\HomeWork8\HomeWork8\obj\Debug\HomeWork8.csproj.CoreCompileInputs.cache
+c:\users\nick\source\repos\HomeWork8\HomeWork8\obj\Debug\HomeWork8.exe
+c:\users\nick\source\repos\HomeWork8\HomeWork8\obj\Debug\HomeWork8.pdb
